@@ -1,6 +1,6 @@
 # project_1
 
-# Comparing 3 cities (Miami, San Francisco, Austin) and figuring trends during the pandemic
+# Comparing traditional home purchase vs lien purchase and figuring out trends in cities(Miami/ft lauderdale, tampa, orlando)
 
 # Project Title - Post Pandemic-ish Real Estate Trends
 
