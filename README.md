@@ -2,6 +2,9 @@
 
 # Comparing traditional home purchase vs lien purchase and figuring out trends in cities(Miami/ft lauderdale, tampa, orlando)
 
+## We are real estate investors intereted investing in those 3 cities. Looking at creative ways to purchase properties(liens vs traditional). Deciding to rent them back out as airbnb or flip houses
+
+
 # Project Title - Post Pandemic-ish Real Estate Trends
 
 ## Trending Data Real Estate Nationwide
