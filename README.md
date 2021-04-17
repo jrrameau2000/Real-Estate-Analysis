@@ -3,11 +3,6 @@
 # Comparing traditional home purchase vs lien purchase and figuring out trends in cities(Miami/ft lauderdale, tampa, orlando)
 
 ## We are real estate investors intereted investing in those 3 cities. Looking at creative ways to purchase properties(liens vs traditional). Deciding to rent them back out as airbnb or flip houses
-
-
-# Project Title - Post Pandemic-ish Real Estate Trends
-
-## Trending Data Real Estate Nationwide
 - (3 cities potentially, we could end up using national and regional data instead):
 - Miami Gardens, Florida 
 - Austin, Texas
@@ -17,8 +12,8 @@
 > **Randolph Rameau, Tavaris Jones, Everett Barney, Monique Ferguson**
 
 ## Project Description/Outline - 
-> Looking at the real estate trends nationwide and how the these trends have been affected by the pandemic.  
-> - Look at the work from home aspect, housing market, politics (Red and Blue states/companies moving from Dem states to Rep states), affordability.
+> Looking at tax liens data from different cities, house prices/data, airbnb listings and rental rates.  
+> Looking at if better to purchase property through lien and reselling them/renting or purchasing them traditionally and reselling them
 
 ## Research questions to answer - What are the questions we want to answer for this project?
 - Renting vs Purchasing
