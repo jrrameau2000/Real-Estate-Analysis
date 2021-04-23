@@ -21,8 +21,8 @@ After the purchase is complete, it is now time to turn a profit. This is by far 
 Over the past 10 years R.E.T has educated and assisted thousands of clients in completing two-part real estate transactions. We are the only firm in the United States that prioritizes education over a commission, when we take you on as a client, we put your needs before our financial gain. We believe that this method has created a great deal of trust in the communities that we serve which in turn has expanded our client base astronomically. R.E.T has won the “Best Real Estate Firm” award each year for the past four years and we are rated A+ with the Better Business Bureau. If you want to close a deal, get with the real. We can be reached at 1-800-BUY-REAL, contact us to heighten your knowledge and fatten your pockets. 
 
 ## Works Cited
->MashVisor
->Mapbox
->Redfin
->https://floridarevenue.com/taxes/compliance/Pages/delinquent_taxpayer.aspx
+MashVisor,
+Mapbox,
+Redfin,
+ https://floridarevenue.com/taxes/compliance/Pages/delinquent_taxpayer.aspx
 
