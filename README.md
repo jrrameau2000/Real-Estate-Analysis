@@ -1,9 +1,9 @@
 # project_1
 
-## Awesome Team Members - 
 > **Randolph Rameau, Tavaris Jones, Everett Barney, Monique Ferguson**
 
- We are real estate investors interested in investing in Miami, Tampa, or Orlando. We are looking at purchasing properties traditionally or through liens.We would then turn those properties into Airbnb's and compare and contrast the profit that can be made from those properties.
+## Project Summary
+We are real estate investors interested in investing in Miami, Tampa, or Orlando. We are looking at purchasing properties traditionally or through liens.We would then turn those properties into Airbnb's and compare and contrast the profit that can be made from those properties.
 
 
 ### Project Premise
