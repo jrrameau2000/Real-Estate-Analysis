@@ -2,7 +2,7 @@
 > ** By: Randolph Rameau, Tavaris Jones, Everett Barney, Monique Ferguson**
 
 # Project Summary
-We are real estate investors interested in investing in Miami, Tampa, or Orlando. We are looking at purchasing properties traditionally or through liens.We would then turn those properties into Airbnb's or traditional rentals, and compare and contrast the profit that can be made from those properties. The document contains data pulled from goverment and real estate websites.
+We are real estate investors interested in investing in Miami, Tampa, or Orlando. We are looking at purchasing properties traditionally or through liens.We would then turn those properties into Airbnb's or traditional rentals, and compare and contrast the profit that can be made from those properties. The document contains data pulled from goverment and real estate websites. Refer to powerpoint "Invest Smartly with R.E.T" to see visually.
 
 
 ## Project Premise
